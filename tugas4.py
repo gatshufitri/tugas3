@@ -21,11 +21,3 @@ def masukan_pilihan (pilihan) :
 
 masukan_pilihan(masukan_pilihan_user)
     
-
-
-
-
-# print("Bilangan biner:",masukan_bilangan,"adalah",bil_bin)
-# print("Bilangan oktal dari",masukan_bilangan,"adalah", bil_oktal)
-# print("Bilangan hexadesimal dari",masukan_bilangan,"adalah", bil_hexa)
-# print("Bilangan Desimal dari",masukan_bilangan,"adalah",bil_desimal)
