@@ -1,5 +1,9 @@
 masukan_bilangan = int ( input ("Masukan Bilangan : "))
-masukan_pilihan_user = int (input("Silahkan Pilih 1,2,3,4 : "))
+masukan_pilihan_user = int (input('''1.Bilangan Oktal
+2.Bilangan Heksadesimal
+3.Bilangan Desimal
+4.Bilangan Biner 
+Silahkan Pilih : ''' ))
 
 bil_oktal = oct(masukan_bilangan) [2:]
 bil_hex = hex(masukan_bilangan) [2:]
