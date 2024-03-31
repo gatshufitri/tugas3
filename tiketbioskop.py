@@ -49,7 +49,8 @@ if pilih_genre in listfilm:
     print(f"Waktu Film {judul_film_dipilih}: {waktu_film_dipilih}")
 
 
-    print("\n====Silahkan Pilih Hari=====")
+    print('''\n========Silahkan Pilih Hari=========
+=======Untuk Menentukan Harga=======''')
     for hari, harga in listharga['Hari'].items():
         print(f"{hari}")
 
